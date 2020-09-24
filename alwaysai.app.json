@@ -1,0 +1,8 @@
+{
+  "models": {
+    "alwaysai/hand_detection": 5
+  },
+  "scripts": {
+    "start": "python app.py"
+  }
+}

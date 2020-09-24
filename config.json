@@ -1,0 +1,11 @@
+{
+    "models" : ["alwaysai/hand_detection"],
+    "interest_items" : [
+        {
+            "name" : "hand",
+            "width" : 5.5,
+            "height" : 7.5,
+            "interest_labels" : ["hand"]
+        }
+    ]
+}
