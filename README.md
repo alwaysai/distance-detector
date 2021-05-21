@@ -1,4 +1,4 @@
-## Distance Detector
+# Distance Detector
 This app will display the distance between two hands in inches. This app uses a web camera as the video stream
 and uses reference object metrics to approximate distance between two objects in an image.
 
