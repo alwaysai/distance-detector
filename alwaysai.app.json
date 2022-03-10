@@ -1,6 +1,6 @@
 {
   "models": {
-    "alwaysai/hand_detection": 5
+    "alwaysai/hand_detection": 6
   },
   "scripts": {
     "start": "python app.py"
